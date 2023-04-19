@@ -2,7 +2,7 @@
 
 👀 I’m interested in OpenSource
 
-🌱 I’m currently learning big data
+🌱 I’m currently learning cyber security
 
 💞️ I’m looking to collaborate on bsd.my
 
